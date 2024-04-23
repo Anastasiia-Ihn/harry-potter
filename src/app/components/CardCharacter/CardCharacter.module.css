@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  column-gap: 30px;
+  margin-bottom: 50px;
+}
+
+.wrapper {
+  padding: 15px;
+}
